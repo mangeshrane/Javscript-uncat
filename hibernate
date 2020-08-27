@@ -1,0 +1,3 @@
+hibernate picks value from getter instead of field 
+coloum id annotations can be placed on field or the getter of the field either way it works
+
